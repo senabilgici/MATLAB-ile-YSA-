@@ -1,4 +1,4 @@
-# MATLAB-ile-YSA-
+# YSA with MATLAB
 MATLAB dili ile yazılmıştır.
 
 Yapay sinir ağları ile Matlab programı üzerinde iki farklı veri kümesinin excel üzerinde oluşturup 
